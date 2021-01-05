@@ -25,7 +25,8 @@ Day # | Source of Problem | Code
 :----:|:-----|:-------:
 1 | Project Euler - Problems 1 and 2 | [Day 1 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_01.ipynb)
 2 | Project Euler - Problem 3 | [Day 2 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_02.ipynb)
-3 | Project Euler | [Day 2 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_03.ipynb)
+3 | Project Euler | [Day 3 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_03.ipynb)
+4 | Coder Byte | [Day 4 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_04.ipynb)
 
 
 ## Contributing

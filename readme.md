@@ -28,6 +28,7 @@ Day # | Source of Problem | Code
 3 | Project Euler | [Day 3 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_03.ipynb)
 4 | Coder Byte    | [Day 4 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_04.ipynb)
 5 | Leet Code     | [Day 5 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/03_LeetCode/Day_05.ipynb)
+6 | Code Wars     | [Day 6 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/04_CodeWars/Day_06.ipynb)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

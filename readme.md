@@ -23,14 +23,16 @@ In this first challenge we will be using **Python**.
 
 Day # | Source of Problem | Code
 :----:|:-----|:-------:
-1 | Project Euler | [Day 1 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_01.ipynb)
-2 | Project Euler | [Day 2 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_02.ipynb)
-3 | Project Euler | [Day 3 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_03.ipynb)
-4 | Coder Byte    | [Day 4 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_04.ipynb)
-5 | Leet Code     | [Day 5 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/03_LeetCode/Day_05.ipynb)
-6 | Code Wars     | [Day 6 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/04_CodeWars/Day_06.ipynb)
-7 | Project Euler | [Day 7 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_07.ipynb)
-8 | Project Euler | [Day 8 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_08.ipynb)
+1 | Project Euler         | [Day 1 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_01.ipynb)
+2 | Project Euler         | [Day 2 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_02.ipynb)
+3 | Project Euler         | [Day 3 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_03.ipynb)
+4 | Coder Byte            | [Day 4 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_04.ipynb)
+5 | Leet Code             | [Day 5 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/03_LeetCode/Day_05.ipynb)
+6 | Code Wars             | [Day 6 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/04_CodeWars/Day_06.ipynb)
+7 | Project Euler         | [Day 7 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_07.ipynb)
+8 | Project Euler         | [Day 8 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_08.ipynb)
+9 | Book: NLP with Python | [Day 9 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Day_09.ipynb)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

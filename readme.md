@@ -33,6 +33,11 @@ Day # | Source of Problem | Code
 8   | Project Euler         | [Day 8 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_08.ipynb)
 9   | Book: NLP with Python | [Day 9 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Day_09.ipynb)
 10  | Book: NLP with Python | [Day 10 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Day_10.ipynb)
+11  | Book: NLP with Python | [Day 11 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Day_11.ipynb)
+
+
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

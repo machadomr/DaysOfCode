@@ -34,7 +34,7 @@ Day # | Source of Problem | Code
 9   | Book: NLP with Python | [Day 9 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Day_09.ipynb)
 10  | Book: NLP with Python | [Day 10 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Day_10.ipynb)
 11  | Book: NLP with Python | [Day 11 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Day_11.ipynb)
-
+12  | Book: NLP with Python | [Day 12 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Day_12.ipynb)
 
 
 

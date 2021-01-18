@@ -39,7 +39,7 @@ Day # | Source of Problem | Code
 14  | Project Euler         | [Day 14 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_14.ipynb)
 15  | Project Euler         | [Day 15 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_15.ipynb)
 16  | Coder Byte            | [Day 16 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_16.ipynb)
-
+17  | Project Euler         | [Day 17 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_17.ipynb)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

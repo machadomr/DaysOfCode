@@ -42,6 +42,7 @@ Day # | Source of Problem | Code
 17  | Project Euler         | [Day 17 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_17.ipynb)
 18  | Project Euler         | [Day 18 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_18.ipynb)
 19  | Coder Byte            | [Day 19 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_19.ipynb)
+20  | Project Euler         | [Day 20 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_20.ipynb)
 
 
 

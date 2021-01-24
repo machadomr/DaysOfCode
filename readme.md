@@ -45,6 +45,10 @@ Day # | Source of Problem | Code
 20  | Project Euler         | [Day 20 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_20.ipynb)
 21  | Project Euler         | [Day 21 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_21.ipynb)
 22  | Project Euler         | [Day 22 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_22.ipynb)
+23  | Project Euler         | [Day 23 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_23.ipynb)
+
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

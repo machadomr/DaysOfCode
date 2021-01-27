@@ -48,6 +48,8 @@ Day # | Source of Problem | Code
 23  | Project Euler         | [Day 23 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_23.ipynb)
 24  | Project Euler         | [Day 24 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_24.ipynb)
 25  | Project Euler         | [Day 25 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_25.ipynb)
+26  | Project Euler         | [Day 26 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_26.ipynb)
+
 
 
 ## Contributing

@@ -50,7 +50,7 @@ Day # | Source of Problem | Code
 25  | Project Euler         | [Day 25 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_25.ipynb)
 26  | Project Euler         | [Day 26 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_26.ipynb)
 27  | Project Euler         | [Day 27 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_27.ipynb)
-
+28  | Coder Byte            | [Day 28 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_28.ipynb)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

@@ -51,7 +51,7 @@ Day # | Source of Problem | Code
 26  | Project Euler         | [Day 26 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_26.ipynb)
 27  | Project Euler         | [Day 27 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_27.ipynb)
 28  | Coder Byte            | [Day 28 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_28.ipynb)
-29  | Other: Kaggle(Olist)  | [Day 29 - Part I](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/01_Kaggle_Olist.ipynb)
+29  | Other: Kaggle (Olist)  | [Day 29 - Part I](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/01_Kaggle_Olist.ipynb)
 
 
 

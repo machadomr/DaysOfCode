@@ -56,7 +56,7 @@ Day # | Source of Problem | Code
 31  | Other: Kaggle (Olist) | [Day 31 - Part III](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/01_Kaggle_Olist.ipynb)
 32  | Other: Kaggle (Olist) | [Day 32 - Part IV](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/01_Kaggle_Olist.ipynb)
 33  | Other: Kaggle (Olist) | [Day 33 - Part V](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/01_Kaggle_Olist.ipynb)
-
+34  | Other: Kaggle (Olist) | [Day 34 - Part VI](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/01_Kaggle_Olist.ipynb)
 
 
 

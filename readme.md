@@ -59,7 +59,7 @@ Day # | Source of Problem | Code
 34  | Other: Kaggle (Olist) | [Day 34 - Part VI](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/01_Kaggle_Olist.ipynb)
 35  | Project Euler         | [Day 35 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_35.ipynb)
 36  | Project Euler         | [Day 36 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_36.ipynb)
-
+37  | Project Euler         | [Day 37 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_37.ipynb)
 
 
 

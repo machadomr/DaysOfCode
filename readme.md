@@ -60,7 +60,7 @@ Day # | Source of Problem | Code
 35  | Project Euler         | [Day 35 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_35.ipynb)
 36  | Project Euler         | [Day 36 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_36.ipynb)
 37  | Project Euler         | [Day 37 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_37.ipynb)
-
+38  | Project Euler         | [Day 38 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_38.ipynb)
 
 
 

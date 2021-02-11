@@ -63,8 +63,7 @@ Day # | Source of Problem | Code
 38  | Project Euler         | [Day 38 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_38.ipynb)
 39  | Leet Code             | [Day 39 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/03_LeetCode/Day_39.ipynb)
 40  | Code Wars             | [Day 40 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/04_CodeWars/Day_40.ipynb)
-
-
+41  | Project Euler         | [Day 41 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_41.ipynb)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

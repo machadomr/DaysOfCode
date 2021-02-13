@@ -64,8 +64,8 @@ Day # | Source of Problem | Code
 39  | Leet Code             | [Day 39 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/03_LeetCode/Day_39.ipynb)
 40  | Code Wars             | [Day 40 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/04_CodeWars/Day_40.ipynb)
 41  | Project Euler         | [Day 41 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_41.ipynb)
-42  | Book: ML Geron        | [Day 42 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter2_End_To_End_Project.ipynb)
-
+42  | Book: ML Geron        | [Day 42 - Chapter 2](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter2_End_To_End_Project.ipynb)
+43  | Book: ML Geron        | [Day 43 - Chapter 2](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter2_End_To_End_Project.ipynb)
 
 
 

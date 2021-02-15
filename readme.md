@@ -67,7 +67,7 @@ Day # | Source of Problem | Code
 42  | Book: ML Geron        | [Day 42 - Chapter 2](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter2_End_To_End_Project.ipynb)
 43  | Book: ML Geron        | [Day 43 - Chapter 2](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter2_End_To_End_Project.ipynb)
 44  | Book: ML Geron        | [Day 44 - Chapter 3](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter3_Classification.ipynb)
-
+45  | Book: ML Geron        | [Day 45 - Chapter 4](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter4_LinearModels.ipynb)
 
 
 

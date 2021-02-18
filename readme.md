@@ -70,7 +70,7 @@ Day # | Source of Problem | Code
 45  | Book: ML Geron        | [Day 45 - Chapter 4](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter4_LinearModels.ipynb)
 46  | Book: ML Geron        | [Day 46 - Chapter 5](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter5_SVMs.ipynb)
 47  | Book: ML Geron        | [Day 47 - Chapter 6](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter6_DT.ipynb)
-
+48  | Book: ML Geron        | [Day 48 - Chapter 7](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter7_Ensemble_and_RF.ipynb)
 
 
 

@@ -73,7 +73,7 @@ Day # | Source of Problem | Code
 48  | Book: ML Geron        | [Day 48 - Chapter 7](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter7_Ensemble_and_RF.ipynb)
 49  | Book: ML Geron        | [Day 49 - Chapter 8](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter8_DimensionalityReduction_and_Clustering.ipynb)
 50  | Book: ML Geron        | [Day 50 - Chapter 10](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter10_Intro_to_ANN.ipynb)
-
+51  | Book: NLP with Python | [Day 51 - Chapter 3](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter3_ProcessingRawText.ipynb)
 
 
 

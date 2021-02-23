@@ -75,7 +75,7 @@ Day # | Source of Problem | Code
 50  | Book: ML Geron        | [Day 50 - Chapter 10](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Geron_ML/Chapter10_Intro_to_ANN.ipynb)
 51  | Book: NLP with Python | [Day 51 - Chapter 3](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter3_ProcessingRawText.ipynb)
 52  | Book: Python for DS   | [Day 52 - Chapter 4](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter4_Numpy.ipynb)
-
+53  | Book: Python for DS   | [Day 53 - Chapter 5](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter5_Pandas.ipynb)
 
 
 

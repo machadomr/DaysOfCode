@@ -2,3 +2,9 @@
 *.csv
 *.data
 *.pkl
+*.xlsx
+*.json
+*.html
+*.xml
+*.h5
+*.txt

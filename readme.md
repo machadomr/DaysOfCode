@@ -77,7 +77,7 @@ Day # | Source of Problem | Code
 52  | Book: Python for DS   | [Day 52 - Chapter 4](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter4_Numpy.ipynb)
 53  | Book: Python for DS   | [Day 53 - Chapter 5](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter5_Pandas.ipynb)
 54  | Book: Python for DS   | [Day 54 - Chapter 6](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter6_DataLoadingStorage.ipynb)
-
+55  | Book: Python for DS   | [Day 55 - Chapter 7](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter7_DataWrangling.ipynb)
 
 
 

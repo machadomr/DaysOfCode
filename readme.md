@@ -81,7 +81,7 @@ Day # | Source of Problem | Code
 56  | Book: Python for DS   | [Day 56 - Chapter 8](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter8_DataWranglingII.ipynb)
 57  | Book: Python for DS   | [Day 57 - Chapter 9](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter9_DataVisualization.ipynb)
 58  | Book: Python for DS   | [Day 58 - Chapter 10](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter10_DataAggregation.ipynb)
-
+59  | Book: Python for DS   | [Day 59 - Chapter 11](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter11_TimeSeries.ipynb)
 
 
 

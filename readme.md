@@ -83,6 +83,16 @@ Day # | Source of Problem | Code
 58  | Book: Python for DS   | [Day 58 - Chapter 10](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter10_DataAggregation.ipynb)
 59  | Book: Python for DS   | [Day 59 - Chapter 11](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter11_TimeSeries.ipynb)
 60  | Book: Python for DS   | [Day 60 - Chapter 12](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Wes_PythonDS/Chapter12_DataAnalysisExamples.ipynb)
+61  | Project Euler         | [Day 61 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_61.ipynb)
+
+
+
+
+
+
+
+
+
 
 
 

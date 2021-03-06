@@ -86,7 +86,7 @@ Day # | Source of Problem | Code
 61  | Project Euler         | [Day 61 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_61.ipynb)
 62  | Project Euler         | [Day 62 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_62.ipynb)
 63  | Book: NLP (Sowmya)    | [Day 63 - Chapter 2](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter2_WebScrapping.ipynb)
-
+64  | Book: NLP (Sowmya)    | [Day 64 - Chapter 3](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter3_TextRepresentation.ipynb)
 
 
 

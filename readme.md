@@ -89,7 +89,7 @@ Day # | Source of Problem | Code
 64  | Book: NLP (Sowmya)    | [Day 64 - Chapter 3](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter3_TextRepresentation.ipynb)
 65  | Book: NLP (Sowmya)    | [Day 65 - Chapter 4](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter4_Classification.ipynb)
 66  | Book: NLP (Sowmya)    | [Day 66 - Chapter 4](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter4_ClassificationII.ipynb)
-
+67  | Book: NLP (Sowmya)    | [Day 67 - Chapter 6](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter6_CNNandRNN.ipynb)
 
 
 

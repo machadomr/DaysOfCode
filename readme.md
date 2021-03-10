@@ -90,7 +90,7 @@ Day # | Source of Problem | Code
 65  | Book: NLP (Sowmya)    | [Day 65 - Chapter 4](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter4_Classification.ipynb)
 66  | Book: NLP (Sowmya)    | [Day 66 - Chapter 4](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter4_ClassificationII.ipynb)
 67  | Book: NLP (Sowmya)    | [Day 67 - Chapter 6](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter6_CNNandRNN.ipynb)
-
+68  | Book: NLP (Sowmya)    | [Day 68 - Chapter 8](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter8_WordCloud.ipynb)
 
 
 

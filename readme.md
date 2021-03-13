@@ -93,7 +93,7 @@ Day # | Source of Problem | Code
 68  | Book: NLP (Sowmya)    | [Day 68 - Chapter 8](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Sowmya_NLP/Chapter8_WordCloud.ipynb)
 69  | Book: NLP with Python | [Day 69 - Chapter 4](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter4_Programs.ipynb)
 70  | Book: NLP with Python | [Day 70 - Chapter 5](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter5_CategorizingWords.ipynb)
-
+71  | Book: NLP with Python | [Day 71 - Chapter 6](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter6_ClassifyText.ipynb)
 
 
 

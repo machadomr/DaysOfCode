@@ -95,7 +95,7 @@ Day # | Source of Problem | Code
 70  | Book: NLP with Python | [Day 70 - Chapter 5](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter5_CategorizingWords.ipynb)
 71  | Book: NLP with Python | [Day 71 - Chapter 6](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter6_ClassifyText.ipynb)
 72  | Book: NLP with Python | [Day 72 - Chapter 6](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter6_ClassifyText_II.ipynb)
-
+73  | Book: NLP with Python | [Day 73 - Chapter 6](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter6_ClassifyText_III.ipynb)
 
 
 

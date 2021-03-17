@@ -97,7 +97,7 @@ Day # | Source of Problem | Code
 72  | Book: NLP with Python | [Day 72 - Chapter 6](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter6_ClassifyText_II.ipynb)
 73  | Book: NLP with Python | [Day 73 - Chapter 6](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter6_ClassifyText_III.ipynb)
 74  | Book: NLP with Python | [Day 74 - Chapter 7](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter7_ExtractingInformation.ipynb)
-
+75  | Book: NLP with Python | [Day 75 - Chapter 7](https://github.com/machadomr/DaysOfCode/blob/main/05_Books/Bird_NLP/Chapter7_ExtractingInformation_II.ipynb)
 
 
 

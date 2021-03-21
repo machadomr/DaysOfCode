@@ -101,7 +101,7 @@ Day # | Source of Problem | Code
 76  | Other: Kaggle (LendC) | [Day 76 - DPT in Text](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/02_Kaggle_LendingClub_I.ipynb)
 77  | Other: ML Solutions   | [Day 77 - EDA](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/ML_Solutions_DataAnalysis.ipynb)
 78  | Other: ML Solutions   | [Day 78 - Credit Risk](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/ML_Solutions_CreditRiskAnalysis.ipynb)
-
+79  | Project Euler         | [Day 79 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_79.ipynb)
 
 
 

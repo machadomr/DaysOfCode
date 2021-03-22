@@ -102,6 +102,11 @@ Day # | Source of Problem | Code
 77  | Other: ML Solutions   | [Day 77 - EDA](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/ML_Solutions_DataAnalysis.ipynb)
 78  | Other: ML Solutions   | [Day 78 - Credit Risk](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/ML_Solutions_CreditRiskAnalysis.ipynb)
 79  | Project Euler         | [Day 79 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_79.ipynb)
+80  | Other: ML Solutions   | [Day 80 - Recom System](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/ML_Solutions_RecommendSystem.ipynb)
+
+
+
+
 
 
 

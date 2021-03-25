@@ -105,7 +105,7 @@ Day # | Source of Problem | Code
 80  | Other: ML Solutions   | [Day 80 - Recom System](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/ML_Solutions_RecommendSystem.ipynb)
 81  | Project Euler         | [Day 81 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_81.ipynb)
 82  | Other: ML Solutions   | [Day 82 - SA - Part I](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/ML_Solutions_RecommendSystem.ipynb)
-
+83  | Project Euler         | [Day 83 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_83.ipynb)
 
 
 

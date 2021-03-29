@@ -109,7 +109,7 @@ Day # | Source of Problem | Code
 84  | Project Euler         | [Day 84 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_84.ipynb)
 85  | Project Euler         | [Day 85 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_85.ipynb)
 86  | Project Euler         | [Day 86 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_86.ipynb)
-
+87  | Other: DSA Course     | [Day 87 - DSA - I](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/DSA_Matplotlib_BarPlots.ipynb)
 
 
 

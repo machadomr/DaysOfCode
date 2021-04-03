@@ -114,7 +114,7 @@ Day # | Source of Problem | Code
 89  | Other: DSA Course     | [Day 89 - DSA - III](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/DSA_PyLab.ipynb)
 90  | Other: DSA Course     | [Day 90 - DSA - IV](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/DSA_PlotsWithNumpy.ipynb)
 91  | Other: DSA Course     | [Day 91 - DSA - V](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/DSA_Regression.ipynb)
-
+92  | Other: DSA Course     | [Day 92 - DSA - VI](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/DSA_StatModels.ipynb)
 
 
 

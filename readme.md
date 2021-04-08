@@ -119,7 +119,7 @@ Day # | Source of Problem | Code
 94  | Other: DSA Course     | [Day 94 - DSA - VIII](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/DSA_EAD.ipynb)
 95  | Other: DSA Course     | [Day 95 - DSA - IX](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/DSA_ML.ipynb)
 96  | Project Euler         | [Day 96 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_96.ipynb)
-
+97  | Coder Byte            | [Day 97 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_97.ipynb)
 
 
 

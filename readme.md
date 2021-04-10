@@ -121,7 +121,7 @@ Day # | Source of Problem | Code
 96  | Project Euler         | [Day 96 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/01_ProjectEuler/Day_96.ipynb)
 97  | Coder Byte            | [Day 97 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_97.ipynb)
 98  | Other: Plotting       | [Day 98 - Random I](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/Random_Plotting.ipynb)
-
+99  | Other: Plotting       | [Day 99 - Random II](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/Random_Plots.ipynb)
 
 
 

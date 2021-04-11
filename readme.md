@@ -122,7 +122,7 @@ Day # | Source of Problem | Code
 97  | Coder Byte            | [Day 97 - Solution](https://github.com/machadomr/DaysOfCode/blob/main/02_CoderByte/Day_97.ipynb)
 98  | Other: Plotting       | [Day 98 - Random I](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/Random_Plotting.ipynb)
 99  | Other: Plotting       | [Day 99 - Random II](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/Random_Plots.ipynb)
-
+100  | Other: ML Project    | [Day 100 - Churn Prediction](https://github.com/machadomr/DaysOfCode/blob/main/06_Other/Random_Plots.ipynb)
 
 
 ## Contributing
